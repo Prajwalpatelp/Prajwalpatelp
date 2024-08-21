@@ -14,7 +14,7 @@
      
 - 🌱 I’m currently learning **Data Science,Data Analyst**
 
--💬 Ask me about **DataScience,Ml,Dl,Statistics**
+-💬 Ask me about **DataScience,Ml,Dl,Statistics,NLP,Computer Vision**
 
 
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
