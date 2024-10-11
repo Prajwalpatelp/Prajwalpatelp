@@ -9,6 +9,7 @@ AI/ML Engineer
 *   🚀  I'm currently working on AI/ML/DL/NLP/Computer Vision
 *   🧠  I'm learning ML, DL, OpenCV, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
 *   ⚡  Exploring Power BI for data visualization, enhancing my skills in business analysis, and gaining insights into effective business strategies.   
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Prajwalpatelp&label=Profile%20views&color=0e75b6&style=flat" alt="Prajwalpatelp" /> 
 </p>
@@ -21,7 +22,6 @@ AI/ML Engineer
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prajwalpatelp&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p align="center">
 
 ## **Tech Toolbox🧰**<br>
 <p align="left">
