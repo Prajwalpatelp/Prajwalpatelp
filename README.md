@@ -12,9 +12,10 @@ AI/ML Engineer
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/prajwal-kumar-b-t-b5240225a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal-kumar-b-t-b5240225a/" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
