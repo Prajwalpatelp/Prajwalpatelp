@@ -11,8 +11,11 @@ AI/ML Engineer
 *   ⚡  Exploring Power BI for data visualization, enhancing my skills in business analysis, and gaining insights into effective business strategies.   
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Prajwalpatelp&label=Profile%20views&color=0e75b6&style=flat" alt="Prajwalpatelp" /> 
+  <a href="https://www.linkedin.com/in/prajwal-kumar-b-t-b5240225a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal-kumar-b-t-b5240225a/" alt="LinkedIn Profile" />
+  </a>
 </p>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
