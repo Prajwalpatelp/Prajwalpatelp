@@ -1,4 +1,4 @@
-Hi, My name is Prajwal Kumar  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi, My name is Prajwal Kumar B T ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
 AI/ML Engineer  
@@ -6,22 +6,22 @@ AI/ML Engineer
 
 *   🌍  I'm based in Bengaluru
 *   ✉️  You can contact me at [prajwalkumar2228@gmail.com](mailto:prajwalkumar2228@gmail.com)
-*   🚀  I'm currently working on AI/Ml/DL/NLP/Computer vision
+*   🚀  I'm currently working on AI/ML/DL/NLP/Computer Vision
 *   🧠  I'm learning ML, DL, OpenCV, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
 *   ⚡  Exploring Power BI for data visualization, enhancing my skills in business analysis, and gaining insights into effective business strategies.   
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=prajwalkumar&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalkumar" /> 
+  <img src="https://komarev.com/ghpvc/?username=Prajwalpatelp&label=Profile%20views&color=0e75b6&style=flat" alt="Prajwalpatelp" /> 
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajwalkumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajwalkumar&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Prajwalpatelp">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prajwalpatelp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prajwalpatelp&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
- <p align="center">
+<p align="center">
 
 ## **Tech Toolbox🧰**<br>
 <p align="left">
@@ -44,7 +44,7 @@ AI/ML Engineer
 <p align="center">
 	<a href="mailto:prajwalkumar2228@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Prajwalpatelp"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="www.linkedin.com/in/prajwal-kumar-b-t-b5240225a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/prajwal-kumar-b-t-b5240225a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 🐍 A Snake Eating my Contributions Graph
