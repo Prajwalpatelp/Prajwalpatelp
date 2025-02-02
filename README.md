@@ -1,4 +1,4 @@
-Hi, My name is Prajwal Kumar B T ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, My name is Prajwal Kumar B T ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
 AI/ML Engineer  
@@ -6,7 +6,7 @@ AI/ML Engineer
 
 *   🌍  I'm based in Bengaluru
 *   ✉️  You can contact me at [prajwalkumar2228@gmail.com](mailto:prajwalkumar2228@gmail.com)
-*   🚀  I'm currently working on AI/ML/DL/NLP/Computer Vision
+*   🚀  I'm currently working on AI/ML/DL/NLP
 *   🧠  I'm learning ML, DL, OpenCV, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
 *   ⚡  Exploring Power BI for data visualization, enhancing my skills in business analysis, and gaining insights into effective business strategies.   
 
@@ -15,8 +15,6 @@ AI/ML Engineer
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -42,7 +40,7 @@ AI/ML Engineer
 <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
-
+</p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
